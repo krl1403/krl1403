@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">Aspiring C# .NET and Web Developer</h3>
 
-- 🌱 I’m currently learning **C#, HTML, CSS, Javascript (React), SQL**
+- 🌱 I’m currently learning **C# ASP .NET CORE, HTML, CSS, Javascript , SQL**
 
 - 📫 How to reach me **kennethlavilla1403@gmail.com**
 
